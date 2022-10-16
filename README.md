@@ -9,4 +9,6 @@
 ## beautifulsoup4
 - url 데이터를 편하게 처리하게 해주는 tool
 
-
+## investiny
+- investing site crawling
+-   - add some code that make table in mysql in python.
